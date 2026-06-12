@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment — NUNCA subas el .env real
+.env
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
